@@ -1,0 +1,8 @@
+name: wete
+static_sites:
+- environment_slug: html
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: nh480309793467/wete
+  name: wete
